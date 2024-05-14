@@ -1,0 +1,25 @@
+{GENERAL}
+- Icone barre de navigation
+
+{HOME}
+- Afficher les futs restant 
+- Afficher les futs vendus
+
+
+{STOCK}
+- Bouton modification (app.UPDATE)
+
+
+{TEAM}
+- Bouton modification
+
+
+{BAR}
+- Listing bar
+
+{PRODUITS}
+- Liste des produits et où ils sont
+
+{EDL}
+- Retire du stock ce qui est encodé dans l'EDL d'entrée
+
